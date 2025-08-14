@@ -1,7 +1,7 @@
 
-# 📺 Netflix Clone
+# 📺 Plataforma de Streaming 
 
-Projeto desenvolvido em React que simula a interface da Netflix com base em consumo de API de filmes. Este repositório contém o código-fonte completo e as instruções para rodar a aplicação localmente.
+Projeto desenvolvido em React que simula a interface de uma plataforma de streaming com base em consumo de API de filmes. Este repositório contém o código-fonte completo e as instruções para rodar a aplicação localmente.
 
 ---
 
